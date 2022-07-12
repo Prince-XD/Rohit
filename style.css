@@ -2,7 +2,7 @@
 :root{
     --primary: white;
     --secondary: black;
-    --bg : url("https://telegra.ph/file/3840a6dc8063098d742e3.jpg");
+    --bg : url("https://telegra.ph/file/afb573c0f77d1112435ba.jpg");
     --con: rgb(243, 21, 21);
     --icons: white;
     --i-hover: red;
@@ -30,7 +30,7 @@ body{
 .dmode{
     --primary: black;
     --secondary: white;
-    --bg: url("https://telegra.ph/file/c67412d93221e1a19dd7f.jpg");
+    --bg: url("https://telegra.ph/file/afb573c0f77d1112435ba.jpg");
     --icons: #000000;
     --i-hover: #4facfe;
     --menu:#4facfe;
