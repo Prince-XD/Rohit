@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
     --primary: white;
-    --secondary: pink;
+    --secondary: #FF6FFF;
     --bg : url("https://telegra.ph/file/afb573c0f77d1112435ba.jpg");
     --con: rgb(243, 21, 21);
     --icons: white;
