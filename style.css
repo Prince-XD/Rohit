@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
-    --primary: black;
-    --secondary: #FF6FFF;
-    --bg : url("https://telegra.ph/file/afb573c0f77d1112435ba.jpg");
-    --con: #00f2fe;
-    --icons: black;
-    --i-hover: blue;
+    --primary: white;
+    --secondary: black;
+    --bg : url("https://telegra.ph/file/3840a6dc8063098d742e3.jpg");
+    --con: rgb(243, 21, 21);
+    --icons: white;
+    --i-hover: red;
     --border: 4px solid black;
-    --btn-color: blue;
-    --menu: pink;
+    --btn-color: red;
+    --menu: white;
 }
 
 *{
@@ -30,7 +30,7 @@ body{
 .dmode{
     --primary: black;
     --secondary: white;
-    --bg: url("https://telegra.ph/file/afb573c0f77d1112435ba.jpg");
+    --bg: url("https://telegra.ph/file/c67412d93221e1a19dd7f.jpg");
     --icons: #000000;
     --i-hover: #4facfe;
     --menu:#4facfe;
